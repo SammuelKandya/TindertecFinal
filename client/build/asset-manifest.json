@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83066031.css",
+    "main.js": "/static/js/main.7f0b5003.js",
+    "static/media/FondoTec.jpg": "/static/media/FondoTec.e6a426f8f246dbe27148.jpg",
+    "static/media/tindertec-logo-color.png": "/static/media/tindertec-logo-color.de48d7d89cc4e44cd5be.png",
+    "static/media/tindertec-logo-white.png": "/static/media/tindertec-logo-white.8af0b59ebe5159a5bd9c.png",
+    "index.html": "/index.html",
+    "main.83066031.css.map": "/static/css/main.83066031.css.map",
+    "main.7f0b5003.js.map": "/static/js/main.7f0b5003.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83066031.css",
+    "static/js/main.7f0b5003.js"
+  ]
+}
